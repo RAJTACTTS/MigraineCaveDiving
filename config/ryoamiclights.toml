@@ -1,0 +1,73 @@
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				enderman = true
+				zombie = true
+				slime = true
+				skeleton = true
+				creeper = true
+				bat = true
+				spider = true
+				cod = true
+				squid = true
+				villager = true
+				dolphin = true
+				zombie_villager = true
+				item = true
+				bee = true
+				tropical_fish = true
+				arrow = true
+				experience_orb = true
+				strider = true
+				zombified_piglin = true
+				blaze = true
+				small_fireball = true
+				witch = true
+				piglin = true
+				ghast = true
+				glow_squid = true
+				drowned = true
+				axolotl = true
+				phantom = true
+				chicken = true
+
+			[light_sources.settings.entities.alexsmobs]
+				cockroach = true
+				flying_fish = true
+				seagull = true
+				lobster = true
+				laviathan = true
+				bone_serpent_part = true
+				crimson_mosquito = true
+				soul_vulture = true
+				giant_squid = true
+				bone_serpent = true
+
+			[light_sources.settings.entities.species]
+				deepfish = true
+				limpet = true
+
+			[light_sources.settings.entities.naturalist]
+				snail = true
+				butterfly = true
+				firefly = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+
