@@ -18,8 +18,8 @@
 - This is a passion project i am uploading for fun :3 
 ---
 ## DESCRIPTION ;;
-- Hello, welcome to the caves. This modpack is not exaclty scary, but deathly lonely. Other psychological horror games/elements are included in this, but it isnt the forefront.
-- This is **VERY. HARD.** There are barely any passive mobs, food is scarce, and the darkness is very present everywhere. A rarity in my modpacks- diamond tools and loot are very easy to come by. 
+- Hello, welcome to the caves. This modpack is not exactly scary, but extremely lonely. Other psychological horror games/elements are included in this, but not the forefront.
+- This is **VERY. HARD.** There are NO vanilla passive mobs, food is scarce, and darkness is present everywhere. _A rarity in my modpacks- diamond tools and loot are very easy to come by._ 
 - Take this as a developer's footnote, adventuring might be good for you, but it will ALWAYS end in death without a torch or proper armor. Be careful.
 ---
 <div align="center">
